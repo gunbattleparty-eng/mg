@@ -19,11 +19,11 @@ var f = (i.property, function (e) {
   t.prototype.onLoad = function () {
     var e = this;
     setTimeout(function () {
-      e.isLoaded ? cc.director.loadScene("Main") : e.isLoaded = !0;
+      e.isLoaded ? cc.director.loadScene("LoginScene") : e.isLoaded = !0;
     }, 1e3);
     cc.assetManager.loadBundle("game_script", function () {
       console.log("脚本加载完成");
-      e.isLoaded ? cc.director.loadScene("Main") : e.isLoaded = !0;
+      e.isLoaded ? cc.director.loadScene("LoginScene") : e.isLoaded = !0;
     });
   };
 

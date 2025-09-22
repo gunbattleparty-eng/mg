@@ -10,10 +10,9 @@ function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) { try
 
 function _asyncToGenerator(fn) { return function () { var self = this, args = arguments; return new Promise(function (resolve, reject) { var gen = fn.apply(self, args); function _next(value) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value); } function _throw(err) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err); } _next(undefined); }); }; }
 
-// assets/scripts/auth/AuthService.js
-var Api = require('../core/ApiClient');
+var Api = require('scripts/core/ApiClient');
 
-var Storage = require('../core/Storage');
+var Storage = require('scripts/core/Storage');
 
 var AuthService = {
   register: function register(_ref) {
@@ -54,7 +53,6 @@ var AuthService = {
             case 3:
               res = _context2.sent;
 
-              // 约定：{ token: '...', user: {...} }
               if (res && res.token) {
                 Storage.setToken(res.token);
                 if (res.user) Storage.setPlayer(res.user);

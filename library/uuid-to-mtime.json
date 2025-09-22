@@ -569,11 +569,6 @@
     "meta": 1758528297317,
     "relativePath": "resources\\textures"
   },
-  "c178d83e-95eb-4003-b55d-82fd24fcdd00": {
-    "asset": 1758526700025,
-    "meta": 1758528297342,
-    "relativePath": "scripts\\LoadScript.js"
-  },
   "ab73cac4-9cb8-461a-bfac-be02297855af": {
     "asset": 1758528076541,
     "meta": 1758528297343,
@@ -9005,8 +9000,8 @@
     "relativePath": "start\\textures\\skill\\zhezhao.png"
   },
   "881abd92-d2e8-429c-a50b-8f10584cffe2": {
-    "asset": 1758536346799,
-    "meta": 1758536346803,
+    "asset": 1758537077592,
+    "meta": 1758537077599,
     "relativePath": "scene\\LoginScene.fire"
   },
   "09595a97-39c0-4c47-8f69-43135d6d2135": {
@@ -9014,20 +9009,10 @@
     "meta": 1758529041046,
     "relativePath": "scripts\\core"
   },
-  "601e5cba-08e7-4e53-99e5-5bf18d88ff77": {
-    "asset": 1758529065832,
-    "meta": 1758529085935,
-    "relativePath": "scripts\\core\\Config.js"
-  },
   "31c1dc99-3c6f-46a6-8281-8ebc25a35d0e": {
     "asset": 1758529100436,
     "meta": 1758529108430,
     "relativePath": "scripts\\core\\Storage.js"
-  },
-  "ccbd64dd-b436-49bd-93ca-bf25a40618d4": {
-    "asset": 1758529115207,
-    "meta": 1758529127699,
-    "relativePath": "scripts\\core\\ApiClient.js"
   },
   "74f902d5-0a31-454a-a114-8fe90ee47976": {
     "asset": 1758529129682,
@@ -9534,14 +9519,29 @@
     "meta": 1758534932976,
     "relativePath": "model\\primitives.fbx"
   },
+  "601e5cba-08e7-4e53-99e5-5bf18d88ff77": {
+    "asset": 1758536531106,
+    "meta": 1758536611667,
+    "relativePath": "scripts\\core\\Config.js"
+  },
   "14699d12-789a-4aab-8982-a86657c44dc7": {
-    "asset": 1758535998117,
-    "meta": 1758536008381,
+    "asset": 1758537200074,
+    "meta": 1758537242316,
     "relativePath": "scripts\\auth\\AuthService.js"
   },
   "fcf23ac0-5c81-4899-b2f1-b0fd8fcc399f": {
-    "asset": 1758536019337,
-    "meta": 1758536261409,
+    "asset": 1758537229428,
+    "meta": 1758537242382,
     "relativePath": "scripts\\auth\\LoginView.js"
+  },
+  "ccbd64dd-b436-49bd-93ca-bf25a40618d4": {
+    "asset": 1758537193081,
+    "meta": 1758537242436,
+    "relativePath": "scripts\\core\\ApiClient.js"
+  },
+  "c178d83e-95eb-4003-b55d-82fd24fcdd00": {
+    "asset": 1758537108048,
+    "meta": 1758537242443,
+    "relativePath": "scripts\\LoadScript.js"
   }
 }

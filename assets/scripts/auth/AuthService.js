@@ -1,6 +1,5 @@
-// assets/scripts/auth/AuthService.js
-const Api     = require('../core/ApiClient');
-const Storage = require('../core/Storage');
+const Api     = require('scripts/core/ApiClient');
+const Storage = require('scripts/core/Storage');
 
 const AuthService = {
   async register({email, password}){
@@ -8,10 +7,9 @@ const AuthService = {
   },
   async login({email, password}){
     const res = await Api.post('auth/login', {email, password});
-    // 约定：{ token: '...', user: {...} }
-    if(res && res.token){
+    if (res && res.token){
       Storage.setToken(res.token);
-      if(res.user) Storage.setPlayer(res.user);
+      if (res.user) Storage.setPlayer(res.user);
     }
     return res;
   },
@@ -20,9 +18,6 @@ const AuthService = {
     Storage.setPlayer(me || {});
     return me;
   },
-  logout(){
-    Storage.clear();
-  }
+  logout(){ Storage.clear(); }
 };
-
 module.exports = AuthService;

@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, 'ccbd6TdtDZJvZPKvyWkBhjU', 'ApiClient');
-// game_script/scripts/core/ApiClient.js
+// scripts/core/ApiClient.js
 
 "use strict";
 
@@ -12,17 +12,16 @@ function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) { try
 
 function _asyncToGenerator(fn) { return function () { var self = this, args = arguments; return new Promise(function (resolve, reject) { var gen = fn.apply(self, args); function _next(value) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value); } function _throw(err) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err); } _next(undefined); }); }; }
 
-// assets/scripts/core/ApiClient.js
-var Config = require('./Config');
+var Config = require('scripts/core/Config');
 
-var Storage = require('./Storage');
+var Storage = require('scripts/core/Storage');
 
-function withTimeout(promise, ms) {
+function withTimeout(p, ms) {
   return new Promise(function (resolve, reject) {
     var t = setTimeout(function () {
       return reject(new Error('timeout'));
     }, ms);
-    promise.then(function (v) {
+    p.then(function (v) {
       clearTimeout(t);
       resolve(v);
     }, function (e) {
@@ -38,7 +37,7 @@ function request(_x, _x2) {
 
 function _request() {
   _request = _asyncToGenerator( /*#__PURE__*/_regeneratorRuntime().mark(function _callee(path, _temp) {
-    var _ref, _ref$method, method, _ref$data, data, _ref$headers, headers, url, token, opts, res, text;
+    var _ref, _ref$method, method, _ref$data, data, _ref$headers, headers, url, token, opts, res;
 
     return _regeneratorRuntime().wrap(function _callee$(_context) {
       while (1) {
@@ -64,23 +63,26 @@ function _request() {
             res = _context.sent;
 
             if (res.ok) {
-              _context.next = 13;
+              _context.next = 16;
               break;
             }
 
-            _context.next = 11;
+            _context.t0 = Error;
+            _context.t1 = "HTTP " + res.status + ": ";
+            _context.next = 13;
             return res.text()["catch"](function () {
               return '';
             });
 
-          case 11:
-            text = _context.sent;
-            throw new Error("HTTP " + res.status + ": " + text);
-
           case 13:
+            _context.t2 = _context.sent;
+            _context.t3 = _context.t1 + _context.t2;
+            throw new _context.t0(_context.t3);
+
+          case 16:
             return _context.abrupt("return", res.json());
 
-          case 14:
+          case 17:
           case "end":
             return _context.stop();
         }

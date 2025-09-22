@@ -10,8 +10,7 @@ function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) { try
 
 function _asyncToGenerator(fn) { return function () { var self = this, args = arguments; return new Promise(function (resolve, reject) { var gen = fn.apply(self, args); function _next(value) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value); } function _throw(err) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err); } _next(undefined); }); }; }
 
-// assets/scripts/auth/LoginView.js
-var Auth = require('./AuthService');
+var Auth = require('scripts/auth/AuthService');
 
 cc.Class({
   "extends": cc.Component,
@@ -26,7 +25,7 @@ cc.Class({
     var _this = this;
 
     this._busy = false;
-    this.lblTips && (this.lblTips.string = '');
+    if (this.lblTips) this.lblTips.string = '';
     this.btnLogin && this.btnLogin.on('click', function () {
       return _this.onLogin();
     }, this);
@@ -37,6 +36,10 @@ cc.Class({
   _setBusy: function _setBusy(b) {
     this._busy = !!b;
     if (this.lblTips) this.lblTips.string = b ? '处理中...' : '';
+  },
+  _toast: function _toast(msg) {
+    if (this.lblTips) this.lblTips.string = msg;
+    cc.log('[Login]', msg);
   },
   onLogin: function onLogin() {
     var _this2 = this;
@@ -83,9 +86,14 @@ cc.Class({
               return Auth.me();
 
             case 13:
-              _this2._toast('登录成功，正在进入游戏...');
+              _this2._toast('登录成功，正在进入游戏...'); // 方案 A：LoadScriptScene 已加载资源包，直接进主场景
 
-              cc.director.loadScene('Main'); // 你的主场景名
+
+              cc.director.loadScene('Main'); // 方案 B：如把 LoginScene 设为启动场景，请改用：
+              // cc.assetManager.loadBundle('game_script', (err, bundle)=>{
+              //   if (err){ this._toast('资源包加载失败:'+err.message); return; }
+              //   bundle.preloadScene('Main', ()=>cc.director.loadScene('Main'));
+              // });
 
               _context.next = 20;
               break;
@@ -177,10 +185,6 @@ cc.Class({
         }
       }, _callee2, null, [[7, 14, 17, 20]]);
     }))();
-  },
-  _toast: function _toast(msg) {
-    if (this.lblTips) this.lblTips.string = msg;
-    cc.log('[Login]', msg);
   }
 });
 
