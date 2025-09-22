@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhiyin4",
+    "texture": "1e14f9e4-e49e-46c2-b4a8-b625f63b4997",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      10,
+      159
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      10,
+      159
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

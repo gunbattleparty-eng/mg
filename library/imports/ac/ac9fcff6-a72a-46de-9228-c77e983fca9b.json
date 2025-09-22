@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "men_tex",
+    "texture": "5ab59050-ac27-4988-918d-9b3d22a36248",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      792,
+      1283
+    ],
+    "offset": [
+      -115,
+      27.5
+    ],
+    "originalSize": [
+      1024,
+      1340
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

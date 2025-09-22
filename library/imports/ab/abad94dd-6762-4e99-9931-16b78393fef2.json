@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huoyan_tex",
+    "texture": "697ab955-3785-4727-a969-97d34688c6d8",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1777,
+      1646
+    ],
+    "offset": [
+      -36.5,
+      40
+    ],
+    "originalSize": [
+      1852,
+      1728
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

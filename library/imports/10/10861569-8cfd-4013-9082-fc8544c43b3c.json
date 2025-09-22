@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shengji_tex",
+    "texture": "8f4f98e8-e87a-4f85-96b4-7dcf7136c819",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1021,
+      669
+    ],
+    "offset": [
+      -0.5,
+      30.5
+    ],
+    "originalSize": [
+      1024,
+      732
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

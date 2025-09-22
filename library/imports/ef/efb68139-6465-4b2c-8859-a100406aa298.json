@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zaixian",
+    "texture": "bef2cd41-b4b9-48dc-859c-821866f84a21",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

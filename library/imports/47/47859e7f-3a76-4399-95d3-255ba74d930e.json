@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chuang_tex",
+    "texture": "9cf70dbb-fb05-4fb6-a941-3dbc9112217c",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      326,
+      254
+    ],
+    "offset": [
+      -9,
+      0
+    ],
+    "originalSize": [
+      346,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

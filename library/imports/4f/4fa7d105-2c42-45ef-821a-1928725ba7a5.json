@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiqiren_tex",
+    "texture": "9335dfbb-e9be-471d-99cb-02f1d9eb249c",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1022,
+      380
+    ],
+    "offset": [
+      0,
+      11
+    ],
+    "originalSize": [
+      1024,
+      404
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

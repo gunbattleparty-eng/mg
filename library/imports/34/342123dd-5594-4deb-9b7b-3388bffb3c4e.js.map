@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\game_script\\scripts\\MusicContext.js"],"names":["exports","MusicContext"],"mappings":";;;;;;AAAAA,OAAO,CAACC,YAAR,GAAuB,KAAK,CAA5B;;AACAD,OAAO,CAACC,YAAR,GAAuB,YAAY,CAAE,CAArC","sourceRoot":"/","sourcesContent":["exports.MusicContext = void 0;\r\nexports.MusicContext = function () {};\r\n"]}

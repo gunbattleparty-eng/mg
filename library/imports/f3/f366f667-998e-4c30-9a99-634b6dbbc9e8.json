@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shengyin",
+    "texture": "2bfdd1f7-c1ef-4d53-8c3e-6090ebd90f27",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

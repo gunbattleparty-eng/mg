@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zwjl",
+    "texture": "6021930c-60a1-4e96-a27a-74988165f845",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      265,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      265,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "rbullet_3",
+  "_duration": 0.35,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "48a06c65-2e2b-43cf-8ba2-711946f3ce87"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "794bb57f-7ab8-44db-b687-9ae293129621"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "7a5dd465-6c28-4429-b392-0bd861ee13a3"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "d1c93a69-40f9-41aa-a6b3-540b93947f71"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "48a06c65-2e2b-43cf-8ba2-711946f3ce87"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

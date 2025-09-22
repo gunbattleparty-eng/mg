@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.Material",
+  "_name": "suffer_atk",
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": false,
+        "USE_ALPHA_TEST": true
+      },
+      "props": {
+        "alphaThreshold": 0.25,
+        "u_color": {
+          "__type__": "cc.Color",
+          "a": 1,
+          "b": 40,
+          "g": 59,
+          "r": 253
+        }
+      }
+    }
+  },
+  "_effectAsset": {
+    "__uuid__": "bb29a3c1-7cd6-42a8-b598-d486a7511e61"
+  }
+}

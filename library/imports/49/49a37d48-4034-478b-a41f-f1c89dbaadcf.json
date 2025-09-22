@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guaiwu1_tex",
+    "texture": "6c1a1a30-a02a-419b-92ed-523d0354bd51",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1022,
+      695
+    ],
+    "offset": [
+      0,
+      14.5
+    ],
+    "originalSize": [
+      1024,
+      726
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

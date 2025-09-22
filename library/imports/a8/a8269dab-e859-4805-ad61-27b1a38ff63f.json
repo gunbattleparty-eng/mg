@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wind_boom_3",
+    "texture": "ee76642c-74a9-4095-8861-4c8ee605ba3b",
+    "atlas": "",
+    "rect": [
+      29,
+      0,
+      145,
+      143
+    ],
+    "offset": [
+      9,
+      3
+    ],
+    "originalSize": [
+      185,
+      149
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

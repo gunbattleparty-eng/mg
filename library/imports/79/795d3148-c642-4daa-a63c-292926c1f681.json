@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiexia",
+    "texture": "08ac9cb4-7a8e-47e0-8e7d-49658c7e228f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      132,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      132,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

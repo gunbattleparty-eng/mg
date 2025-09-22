@@ -1,0 +1,122 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "rbullet_5_1",
+  "_duration": 0.5166666666666667,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "jiqi6_1": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "a89e4da9-7688-4152-bc56-25c10b0266b5"
+                }
+              },
+              {
+                "frame": 0.08333333333333333,
+                "value": {
+                  "__uuid__": "302432c5-c88a-41a0-b8e5-76f66652147e"
+                }
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": {
+                  "__uuid__": "bd4e6743-4ae5-4fa1-974c-9a8e97646668"
+                }
+              },
+              {
+                "frame": 0.25,
+                "value": {
+                  "__uuid__": "d66d984b-4c1e-4de1-afb5-6a90ab2d04e5"
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__uuid__": "0129acb5-93b8-4d23-92c0-0219fc64c756"
+                }
+              },
+              {
+                "frame": 0.4166666666666667,
+                "value": {
+                  "__uuid__": "fab8443b-c3ea-4154-9127-f3164e194b22"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "a89e4da9-7688-4152-bc56-25c10b0266b5"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "jiqi6_0": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.1,
+                "y": 1.1,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "jiqi6_7": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 4,
+                "y": 4,
+                "z": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

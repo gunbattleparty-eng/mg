@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ewsp",
+    "texture": "56cdb073-66ea-4838-ae51-2dda0a6f0552",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      250,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      250,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

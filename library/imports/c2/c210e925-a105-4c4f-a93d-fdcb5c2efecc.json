@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rkyj",
+    "texture": "dfe9f648-1aa0-4bcc-9088-9d4fecffef78",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      106,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      106,
+      112
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

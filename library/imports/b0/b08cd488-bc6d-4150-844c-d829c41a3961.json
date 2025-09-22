@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yinxiao",
+    "texture": "9991c47f-c1c1-4290-84c0-d4c92c7714b0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huanling_tex",
+    "texture": "095456a2-1142-40fe-b978-21dbc8475969",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      2008,
+      1021
+    ],
+    "offset": [
+      -19,
+      0.5
+    ],
+    "originalSize": [
+      2048,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

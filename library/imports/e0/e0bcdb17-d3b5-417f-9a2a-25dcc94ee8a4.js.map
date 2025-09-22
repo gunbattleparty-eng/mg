@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\game_script\\scripts\\Base.js"],"names":["exports","Base"],"mappings":";;;;;;AAAAA,OAAO,CAACC,IAAR,GAAe,KAAK,CAApB;;AACAD,OAAO,CAACC,IAAR,GAAe,YAAY,CAAE,CAA7B","sourceRoot":"/","sourcesContent":["exports.Base = void 0;\r\nexports.Base = function () {};\r\n"]}

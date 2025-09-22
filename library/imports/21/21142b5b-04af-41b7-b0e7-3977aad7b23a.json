@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "toast_bg",
+    "texture": "6e71073a-91cd-460f-92a5-cd4a12d89d5f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      55
+    ],
+    "capInsets": [
+      45,
+      25,
+      45,
+      24
+    ]
+  }
+}

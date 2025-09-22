@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "juese_tex",
+    "texture": "06e21d9a-7f86-45bb-8a8f-476bda5b80cb",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1022,
+      467
+    ],
+    "offset": [
+      0,
+      21.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

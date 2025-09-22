@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lmdl_1",
+    "texture": "59a374ef-db7e-46c5-8d9d-6a6282b41520",
+    "atlas": "",
+    "rect": [
+      0,
+      4,
+      198,
+      34
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      198,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

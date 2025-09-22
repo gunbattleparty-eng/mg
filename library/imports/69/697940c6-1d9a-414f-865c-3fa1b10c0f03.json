@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fanye",
+    "texture": "2e3cc754-8e93-4e9e-8895-f4a60204831a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      46,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

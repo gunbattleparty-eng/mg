@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shanghai",
+    "texture": "76a6199d-b21e-4fcb-96d8-604ef37308da",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      720,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      720,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

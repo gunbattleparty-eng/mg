@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "caidan3_tex",
+    "texture": "3aa7ade5-35df-4fbf-95ba-4ab209247bf3",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1020,
+      649
+    ],
+    "offset": [
+      -1,
+      186.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

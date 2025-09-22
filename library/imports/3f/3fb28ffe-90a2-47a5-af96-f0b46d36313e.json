@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huo_3",
+    "texture": "9d6705c1-1120-4b55-8f63-505e2f89cd16",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      91,
+      131
+    ],
+    "offset": [
+      -0.5,
+      8
+    ],
+    "originalSize": [
+      92,
+      147
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

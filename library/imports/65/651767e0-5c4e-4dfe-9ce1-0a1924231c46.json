@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "newman_config",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "id": 1,
+      "tips": "第一天",
+      "gittype": 1,
+      "rewardtpye": [
+        1,
+        2,
+        3
+      ],
+      "num": [
+        1,
+        1,
+        500
+      ]
+    },
+    {
+      "id": 2,
+      "tips": "第二天",
+      "gittype": 1,
+      "rewardtpye": [
+        4,
+        3
+      ],
+      "num": [
+        300,
+        2000
+      ]
+    },
+    {
+      "id": 3,
+      "tips": "第三天",
+      "gittype": 1,
+      "rewardtpye": [
+        4,
+        3
+      ],
+      "num": [
+        500,
+        5000
+      ]
+    }
+  ]
+}

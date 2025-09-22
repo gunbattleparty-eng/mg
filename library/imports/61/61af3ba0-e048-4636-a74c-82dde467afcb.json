@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paihang",
+    "texture": "cee8095b-5e6c-430d-8697-b74d71fc8e12",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

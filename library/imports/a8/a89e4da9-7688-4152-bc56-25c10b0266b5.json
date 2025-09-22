@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiqi6_1",
+    "texture": "dd24ba35-903e-4a78-8239-4d8dcdda8704",
+    "atlas": "",
+    "rect": [
+      34,
+      36,
+      164,
+      135
+    ],
+    "offset": [
+      17,
+      -2
+    ],
+    "originalSize": [
+      198,
+      203
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

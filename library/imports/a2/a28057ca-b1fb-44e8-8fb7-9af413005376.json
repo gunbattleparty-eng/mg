@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kuang3",
+    "texture": "1f02436e-de1c-452c-9ca7-3389e628749a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      651,
+      474
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      651,
+      474
+    ],
+    "capInsets": [
+      0,
+      197,
+      0,
+      142
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "freeze",
+  "_duration": 0.5166666666666667,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d1944e5a-fe4a-48b0-b926-21bfa38e1f42"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "e1885b92-dd2e-4233-8996-96c0bc6a9216"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "9d8dbe7c-ea90-4233-a23d-c78aa93d98b5"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "ed04d7a0-8caa-4362-a2ed-7869e0709fd0"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "e6407479-e709-4e6c-b4cb-4464ee609af1"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "b9a9d6d0-cac2-4aff-9260-51403e577f02"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "d1944e5a-fe4a-48b0-b926-21bfa38e1f42"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

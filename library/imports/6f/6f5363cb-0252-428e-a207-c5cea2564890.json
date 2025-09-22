@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiangqian",
+    "texture": "d938b2c4-244b-45ac-b396-5d1541e96369",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      132,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      132,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

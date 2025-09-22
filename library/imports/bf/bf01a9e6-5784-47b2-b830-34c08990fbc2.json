@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tongguan",
+    "texture": "d4c16a30-33d1-4c7d-91b1-8f3584d70741",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      129,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      129,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

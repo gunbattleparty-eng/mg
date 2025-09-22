@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lun_2",
+    "texture": "af482284-0ed9-4622-8cab-4b15de2ef128",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      44
+    ],
+    "capInsets": [
+      37,
+      0,
+      38,
+      0
+    ]
+  }
+}

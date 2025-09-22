@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hecheng",
+    "texture": "3fc027d7-35b0-47e6-969e-9dc0d2d43ac9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

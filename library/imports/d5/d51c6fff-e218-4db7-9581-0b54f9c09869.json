@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "paralysis",
+  "_duration": 0.35,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "332ca3fe-410a-4c14-8fb8-01dbeff2c18d"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "f71b56db-b30f-4899-a3cf-cf4aafdf3659"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "cd0c015e-c8e6-45e2-8c72-5ec9e4c6fcfd"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "832e7b1f-150d-429f-89f7-0d708d5fd1b2"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "332ca3fe-410a-4c14-8fb8-01dbeff2c18d"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

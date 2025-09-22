@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "donghua_tex",
+    "texture": "b12ecd00-9ecb-432f-9c63-9800d0ca6b0d",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      250,
+      473
+    ],
+    "offset": [
+      -2,
+      18.5
+    ],
+    "originalSize": [
+      256,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

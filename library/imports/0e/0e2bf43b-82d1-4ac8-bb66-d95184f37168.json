@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tishi_tex",
+    "texture": "3f3af68e-8301-4f4a-9d37-73c08758c093",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      509,
+      767
+    ],
+    "offset": [
+      -0.5,
+      127.5
+    ],
+    "originalSize": [
+      512,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

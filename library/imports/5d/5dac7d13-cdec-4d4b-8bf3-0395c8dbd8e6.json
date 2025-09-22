@@ -1,0 +1,122 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "RBullet_8",
+    "root": {
+      "__id__": 1
+    },
+    "skin": {
+      "__id__": 3
+    },
+    "node": {
+      "__id__": 1
+    },
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "RBullet_8",
+    "_groupIndex": 2,
+    "groupIndex": 2,
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "43271o1BYlAUoMwo94OKMs6",
+        "node": {
+          "__id__": 1
+        },
+        "skin": {
+          "__id__": 3
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__id__": 0
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 271,
+      "height": 196
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        1.995,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "skin",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "fileId": "fck7g97i5KVae4SWoZoeAk",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__id__": 0
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 171.14,
+      "height": 152.97
+    }
+  },
+  {
+    "__type__": "dragonBones.ArmatureDisplay",
+    "_armatureName": "jqr9",
+    "_animationName": "stand_2",
+    "_preCacheMode": 0,
+    "premultipliedAlpha": true,
+    "_armatureKey": "15074006-5844-45f9-b3b7-07f9dcc725ad#29a8bb62-2d56-466d-8da1-04261f3660df",
+    "node": {
+      "__id__": 2
+    },
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_N$dragonAsset": {
+      "__uuid__": "15074006-5844-45f9-b3b7-07f9dcc725ad"
+    },
+    "_N$dragonAtlasAsset": {
+      "__uuid__": "29a8bb62-2d56-466d-8da1-04261f3660df"
+    }
+  }
+]

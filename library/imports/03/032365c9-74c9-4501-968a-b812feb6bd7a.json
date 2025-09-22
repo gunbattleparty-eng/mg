@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heikaung",
+    "texture": "cc659291-c24b-4d2b-b1d3-92d35c4a9120",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      720,
+      125
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      720,
+      125
+    ],
+    "capInsets": [
+      0,
+      38,
+      0,
+      30
+    ]
+  }
+}

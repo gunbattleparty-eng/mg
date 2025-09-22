@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "upgrade_sone",
+    "texture": "3b7be65c-30ab-4840-8b20-95edb2dcf9c9",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      41,
+      54
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      46,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

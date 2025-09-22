@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shiyongzhong",
+    "texture": "388f112c-f011-4b9c-aed2-260e4211a233",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      213
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      213
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
