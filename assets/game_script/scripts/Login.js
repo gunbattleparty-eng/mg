@@ -19,6 +19,7 @@ var u = (function () {
             ksAuthUid: ""
         };
     }
+    
     t.prototype.start = function () {
         console.log("=========login-param=======", this.param);
         this.param = $switchContext.SwitchContext.loginParam;
