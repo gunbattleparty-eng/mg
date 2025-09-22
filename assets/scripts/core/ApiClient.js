@@ -13,11 +13,13 @@ async function request(path, {method='GET', data=null, headers={}} = {}){
   const token = Storage.getToken();
   const opts = {
     method,
-    headers: Object.assign({
+    mode: 'cors',
+    headers: {
       'Content-Type': 'application/json',
       'Accept': 'application/json',
       ...(token ? {'Authorization': 'Bearer '+token} : {})
-    }, headers)
+    },
+    body: data ? JSON.stringify(data) : undefined,
   };
   if (data) opts.body = JSON.stringify(data);
   const res = await withTimeout(fetch(url, opts), Config.REQ_TIMEOUT);

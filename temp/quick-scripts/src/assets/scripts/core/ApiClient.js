@@ -48,12 +48,14 @@ function _request() {
             token = Storage.getToken();
             opts = {
               method: method,
-              headers: Object.assign(_extends({
+              mode: 'cors',
+              headers: _extends({
                 'Content-Type': 'application/json',
                 'Accept': 'application/json'
               }, token ? {
                 'Authorization': 'Bearer ' + token
-              } : {}), headers)
+              } : {}),
+              body: data ? JSON.stringify(data) : undefined
             };
             if (data) opts.body = JSON.stringify(data);
             _context.next = 7;
