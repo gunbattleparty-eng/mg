@@ -1,5 +1,5 @@
-const Config  = require('scripts/core/Config');
-const Storage = require('scripts/core/Storage');
+const Config  = require('./Config');
+const Storage = require('./Storage');
 
 function withTimeout(p, ms){
   return new Promise((resolve,reject)=>{

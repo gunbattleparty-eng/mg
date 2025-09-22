@@ -1,5 +1,5 @@
-const Api     = require('scripts/core/ApiClient');
-const Storage = require('scripts/core/Storage');
+const Api     = require('../core/ApiClient');
+const Storage = require('../core/Storage');
 
 const AuthService = {
   async register({email, password}){

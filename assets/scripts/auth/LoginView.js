@@ -1,4 +1,4 @@
-const Auth = require('scripts/auth/AuthService');
+const Auth = require('./AuthService');
 
 cc.Class({
   extends: cc.Component,
