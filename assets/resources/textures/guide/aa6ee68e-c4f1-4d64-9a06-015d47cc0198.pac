@@ -1,0 +1,1 @@
+{"__type__":"cc.SpriteAtlas","_spriteFrames":{"zhiyin3":{"__uuid__":"5d963Qh/tAxaZicf03s9Og"},"zhiyin2":{"__uuid__":"b8YRBfRx5AkoFKkZESg1yR"},"zhiyin4":{"__uuid__":"c8I/wapApH5rncYbCdGOcu"},"zhiyin1":{"__uuid__":"ccmdXd0TNMnIzkevtYVQRC"}}}

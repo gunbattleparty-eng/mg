@@ -1,0 +1,1 @@
+{"__type__":"cc.SpriteAtlas","_spriteFrames":{"bhp2":{"__uuid__":"4828qLK4pHW6WzcyhP6N1H"},"bhp1":{"__uuid__":"085FA/kfZDQr6exbvX0/ln"}}}

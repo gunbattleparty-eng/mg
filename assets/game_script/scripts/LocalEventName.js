@@ -1,0 +1,24 @@
+var o = (function () {
+    function t() {}
+    t.CHANGE_RELOAD_ANIM = "CHANGE_RELOAD_ANIM";
+    t.CHOOSE_SKILL = "CHOOSE_SKILL";
+    t.ADD_SKILL_CD = "ADD_SKILL_CD";
+    t.ADD_EXP = "ADD_EXP";
+    t.RENDER_SKILL_CD_INFO = "RENDER_SKILL_CD_INFO";
+    t.HURT_ANIM = "HURT_ANIM";
+    t.ATK_DOOR = "ATK_DOOR";
+    t.ADD_HP_DOOR = "ADD_HP_DOOR";
+    t.CREATE_ENEMY = "CREATE_ENEMY";
+    t.ENEMY_DIE = "ENEMY_DIE";
+    t.GAME_FAIL = "GAME_FAIL";
+    t.RENDER_GEM = "RENDER_GEM";
+    t.USER_UPGRADE = "USER_UPGRADE";
+    t.RENDER_USER_INFO = "RENDER_USER_INFO";
+    t.MENU = "MENU";
+    t.RENDER_DOT = "RENDER_DOT";
+    t.RENDER_HEAD = "RENDER_HEAD";
+    t.EQUIP_UPGRADE = "EQUIP_UPGRADE";
+    t.SEND_SKILL_ANIM = "SEND_SKILL_ANIM";
+    return t;
+})();
+exports.default = o;

@@ -1,0 +1,1 @@
+{"__type__":"cc.SpriteAtlas","_spriteFrames":{"an_lv":{"__uuid__":"04/Wr4grhHJLZCfUbs/U6H"},"an_lan":{"__uuid__":"18LrKQuSpIjrF4NFJjhMJQ"},"an_huang":{"__uuid__":"a2BI/W70JCBoVasdaqISG8"},"an_hong":{"__uuid__":"a7/vI4/yNBD4rDZNFnaA61"},"tz1":{"__uuid__":"8d/osRjCZCPIJvuaGo/Jn7"},"jinbi":{"__uuid__":"f6lqRdo0dK0IZTfsuBCq7I"},"ad":{"__uuid__":"8dwWGyej9NgbNfbjVFzwon"}}}

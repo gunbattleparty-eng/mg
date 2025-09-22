@@ -1,0 +1,1 @@
+{"__type__":"cc.SpriteAtlas","_spriteFrames":{"kuang":{"__uuid__":"312YcaYFVHkYneUvYYjAjM"},"no0":{"__uuid__":"75FY2UwDNBEpudxhjdCWGH"},"no2":{"__uuid__":"3eLKruTpJNB5+5lzCjmPcQ"},"no1":{"__uuid__":"780VfYzGBNuKdZhEKvW6QJ"},"no4":{"__uuid__":"80/wKdow5N84GJu0u7b8+D"},"no3":{"__uuid__":"aaiRFd8slCY5ya+FYJfHSr"},"dengji":{"__uuid__":"cdIjn/BtdJQKsejT+8Mlv7"}}}

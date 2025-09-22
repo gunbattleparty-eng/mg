@@ -1,0 +1,1 @@
+{"__type__":"cc.SpriteAtlas","_spriteFrames":{"kuang2":{"__uuid__":"35s1iyO+FOkJp3o21/jDuh"},"zi":{"__uuid__":"e3O7qIQxhFU4rM8M5B2668"},"xuanzhong":{"__uuid__":"d5hlbd0VxM764q+muINnSn"},"kuang1":{"__uuid__":"550mcRpRBDZqUg3EtNP8Eu"}}}

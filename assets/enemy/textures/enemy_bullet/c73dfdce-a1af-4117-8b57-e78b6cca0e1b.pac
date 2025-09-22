@@ -1,0 +1,1 @@
+{"__type__":"cc.SpriteAtlas","_spriteFrames":{"g19":{"__uuid__":"55XLVfqklAfbZq2UV4iRzU"},"jy5_4":{"__uuid__":"870HriWUxAzbSS10/+W364"},"jy16_9":{"__uuid__":"ed6F6fZGJICIGzHXQapuUS"},"g5_3":{"__uuid__":"4cedE+6ppKZ4KM4ubJfSG5"},"jy11_2":{"__uuid__":"85y5nA2H1JHq8kwU4vKbu0"},"g16_9":{"__uuid__":"9eu3pla19A1ZgWEjrmyggD"}}}
